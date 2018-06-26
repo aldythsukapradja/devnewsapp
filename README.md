@@ -1,1 +1,1 @@
-# devnewsapp
+# emulatoriphone
